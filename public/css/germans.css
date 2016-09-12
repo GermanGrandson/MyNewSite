@@ -6,7 +6,7 @@
 .arrow{
   /*float: right;*/
   position: fixed;
-  margin-left: 1140px;
+  margin-left: 1170px;
   margin-top: -2em;
   font-size: 70px;
   color: white;
@@ -121,7 +121,7 @@ color: white;
 
 .about{
   font-size: 22px;
-  margin-left: 838px;
+  margin-left: 874px;
   padding-top: 1em;
   font-style: italic;
   -moz-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(170deg, 0deg);
@@ -137,7 +137,7 @@ color: white;
 }
 
 .portfolio{
-  margin-left: 746px;
+  margin-left: 788px;
   font-size: 38px;
   padding-top: 28px;
   font-style: italic;
@@ -154,7 +154,7 @@ color: white;
 }
 
 .contact-info{
-  margin-left: 602px;
+  margin-left: 635px;
   font-size: 57px;
   padding-top: 43px;
   font-style: italic;
@@ -204,7 +204,7 @@ color: white;
 
 .lang{
   margin: 0 auto;
-  width: 58%;
+  width: 57%;
   /*margin-left: 15em;*/
 }
 .ruby{

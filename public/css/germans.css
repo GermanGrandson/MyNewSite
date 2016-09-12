@@ -309,11 +309,11 @@ color: white;
   /*display:inline-block;*/
   /*margin-top: -24em;*/
   /*float: right;*/
-  margin-left: 22em;
+  margin-left: 17em;
   /*margin: 0 auto;*/
   /*margin-bottom: 200px;*/
   background-size: cover;
-  border-radius:100px;
+  border-radius:17px;
   -webkit-border-radius: 17px;
   -moz-border-radius: 100px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -362,7 +362,7 @@ color: white;
   margin-right: 15px;
   /*margin-top: -16em;*/
   /*background-size: cover;*/
-  border-radius:100px;
+  border-radius:17px;
   -webkit-border-radius: 17px;
   -moz-border-radius: 100px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -382,7 +382,7 @@ color: white;
   margin-right: 15px;
   /*margin-top: -16em;*/
   /*background-size: cover;*/
-  border-radius:100px;
+  border-radius:17px;
   -webkit-border-radius: 17px;
   -moz-border-radius: 100px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -401,7 +401,7 @@ color: white;
   padding-bottom: 20px;
   /*margin-top: -16em;*/
   /*background-size: cover;*/
-  border-radius:100px;
+  border-radius:17px;
   -webkit-border-radius: 17px;
   -moz-border-radius: 100px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -422,7 +422,7 @@ color: white;
   margin-right: 15px;
   /*margin-top: -16em;*/
   /*background-size: cover;*/
-  border-radius:100px;
+  border-radius:17px;
   -webkit-border-radius: 17px;
   -moz-border-radius: 100px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -443,7 +443,7 @@ color: white;
   margin-right: 15px;
   /*margin-top: -16em;*/
   /*background-size: cover;*/
-  border-radius:100px;
+  border-radius:17px;
   -webkit-border-radius: 17px;
   -moz-border-radius: 100px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -463,7 +463,7 @@ color: white;
   padding-bottom: 20px;
   /*margin-top: -16em;*/
   /*background-size: cover;*/
-  border-radius:100px;
+  border-radius:17px;
   -webkit-border-radius: 17px;
   -moz-border-radius: 100px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -510,7 +510,7 @@ color: white;
 .bubble
 {
 position: relative;
-margin-left: 38em;
+margin-left: 33em;
 width: 450px;
 height: 240px;
 padding: 0px;
@@ -661,7 +661,7 @@ top: 120px;
       background-repeat: no-repeat;
       /*position: fixed;*/
       background-attachment: fixed;
-      height: 40em;
+      height: 109em;
     }
 
     .graffiti3{
@@ -670,7 +670,7 @@ top: 120px;
       background-repeat: no-repeat;
       /*position: fixed;*/
       background-attachment: fixed;
-      height: 40em;
+      height: 109em;
     }
 
     .myname{
@@ -719,7 +719,7 @@ top: 120px;
     .info{
       font-family: 'Bungee', cursive;
       /*font-family: 'Cabin Condensed', sans-serif;*/
-      height: 40em;
+      height: 109em;
       /*background-color: #76B852;*/
       margin-left:0px;
       margin-top: -8px;
@@ -794,7 +794,7 @@ top: 120px;
 
     .about-me{
       /*margin-top: 20em;*/
-      height: 40em;
+      height: 109em;
       background-color: #76B852;
     }
 
@@ -942,7 +942,7 @@ top: 120px;
 
 
     .projects{
-      height: 40em;
+      height: 109em;
       background-color: #314D68;
       /*height: 33em;*/
       /*margin-top: 20em;*/
@@ -1109,7 +1109,7 @@ top: 120px;
 
     .contact{
       /*margin-top: 20em;*/
-      height: 40em;
+      height: 109em;
       /*background-image: url(swirl_pattern.png);*/
       /*background-position: center;*/
       /*background-size: cover;*/

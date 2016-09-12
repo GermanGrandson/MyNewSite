@@ -2,6 +2,6 @@ require "sinatra"
 
 get "/" do
   filer = File.join('public','NewSite.html')
-  File.read(filter)
+  File.read(filer)
 
 end

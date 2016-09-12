@@ -23,7 +23,7 @@
 
 .graffiti{
   background-size: cover;
-  background-image: url(graffiti.jpg);
+  background-image: url(images/graffiti.jpg);
   background-repeat: no-repeat;
   /*position: fixed;*/
   background-attachment: fixed;
@@ -32,7 +32,7 @@
 
 .graffiti2{
   background-size: cover;
-  background-image: url(columbus.jpg);
+  background-image: url(images/columbus.jpg);
   background-repeat: no-repeat;
   /*position: fixed;*/
   background-attachment: fixed;
@@ -41,7 +41,7 @@
 
 .graffiti3{
   background-size: cover;
-  background-image: url(wynwood.jpg);
+  background-image: url(images/wynwood.jpg);
   background-repeat: no-repeat;
   /*position: fixed;*/
   background-attachment: fixed;
@@ -99,7 +99,7 @@ color: white;
   /*margin-left:-7px;*/
   margin-top: -8px;
   background-size: cover;
-  background-image: url(graffiti.jpg);
+  background-image: url(images/graffiti.jpg);
   background-repeat: no-repeat;
   /*position: fixed;*/
   /*background-attachment: fixed;*/
@@ -294,7 +294,7 @@ color: white;
 
 
 .me{
-  background-image: url(goodlookin.jpg);
+  background-image:url(images/goodlookin.jpg);
   background-position: center;
   width: 250px;
   height: 250px;
@@ -323,7 +323,7 @@ color: white;
 
 .proj{
   font-family: 'Bungee', cursive;
-  color:white;
+  color:#76B852;
   font-size: 40px;
   text-align: center;
   height: 1em;
@@ -341,7 +341,7 @@ color: white;
 }
 
 .first-proj{
-  background-image: url(Trndi.png);
+  background-image: url(images/Trndi.png);
   background-position: center;
   background-size: cover;
   width: 250px;
@@ -361,7 +361,7 @@ color: white;
 }
 
 .second-proj{
-  background-image: url(Tindcat.png);
+  background-image: url(images/Tindcat.png);
   background-position: center;
   background-size: cover;
   width: 250px;
@@ -381,7 +381,7 @@ color: white;
 }
 
 .third-proj{
-  background-image: url(Verbal.png);
+  background-image: url(images/Verbal.png);
   background-position: center;
   background-size: cover;
   width: 250px;
@@ -401,7 +401,7 @@ color: white;
 
 
 .fourth-proj{
-  background-image: url(Wynworld.png);
+  background-image: url(images/Wynworld.png);
   background-position: center;
   background-size: cover;
   width: 250px;
@@ -422,7 +422,7 @@ color: white;
 
 
 .fifth-proj{
-  background-image: url(Straingth.png);
+  background-image: url(images/Straingth.png);
   background-position: center;
   background-size: cover;
   width: 250px;
@@ -443,7 +443,7 @@ color: white;
 
 
 .sixth-proj{
-  background-image: url(Votersim.png);
+  background-image: url(images/Votersim.png);
   background-position: center;
   background-size: cover;
   width: 250px;
@@ -485,12 +485,12 @@ color: white;
   /*background-image: url(swirl_pattern.png);*/
   /*background-position: center;*/
   /*background-size: cover;*/
-  background-color: #F24B4B;
+  background-color: #76b852;
 
 }
 
 .hitmeup{
-  color:#7A0A0A;
+  color:#D9FFC4;
   font-family: 'Ubuntu', sans-serif;
   text-align:center;
 }
@@ -524,18 +524,18 @@ top: 120px;
 
 .socials{
   margin: 0 auto;
-  width: 81%;
+  width: 72%;
   font-size: 200px;
-  margin-top: -39px;
+  margin-top: -8px;
   margin-bottom: 25px;
 }
 
 .github{
-  background-image: url(Octocat.png);
+  background-image: url(images/Octocat.png);
   background-position: center;
   background-size: cover;
-  width: 170px;
-  height: 170px;
+  width: 140px;
+  height: 140px;
   display:inline-block;
   padding-right: 30px;
   padding-bottom: 20px;
@@ -543,11 +543,11 @@ top: 120px;
 }
 
 .twitter{
-  background-image: url(birdy.png);
+  background-image: url(images/twitter.png);
   background-position: center;
   background-size: cover;
-  width: 170px;
-  height: 170px;
+  width: 140px;
+  height: 140px;
   display:inline-block;
   padding-right: 30px;
   padding-bottom: 20px;
@@ -555,11 +555,11 @@ top: 120px;
 }
 
 .linkedin{
-  background-image: url(lin.png);
+  background-image: url(images/lin.png);
   background-position: center;
   background-size: cover;
-  width: 170px;
-  height: 170px;
+  width: 140px;
+  height: 140px;
   display:inline-block;
   padding-right: 30px;
   padding-bottom: 20px;
@@ -567,11 +567,11 @@ top: 120px;
 }
 
 .envelope{
-  background-image: url(envelope.png);
+  background-image: url(images/envelope.png);
   background-position: center;
   background-size: cover;
-  width: 170px;
-  height: 170px;
+  width: 140px;
+  height: 140px;
   display:inline-block;
   padding-right: 30px;
   padding-bottom: 20px;
@@ -608,6 +608,7 @@ top: 120px;
   height: 50%;
   width: 80%;
   margin: 0 auto;
+  margin-top: -25px;
 }
 
 @media only screen
@@ -635,7 +636,7 @@ top: 120px;
 
     .graffiti{
       background-size: cover;
-      background-image: url(graffiti.jpg);
+      background-image: url(images/graffiti.jpg);
       background-repeat: no-repeat;
       /*position: fixed;*/
       background-attachment: fixed;
@@ -644,7 +645,7 @@ top: 120px;
 
     .graffiti2{
       background-size: cover;
-      background-image: url(columbus.jpg);
+      background-image: url(images/columbus.jpg);
       background-repeat: no-repeat;
       /*position: fixed;*/
       background-attachment: fixed;
@@ -653,7 +654,7 @@ top: 120px;
 
     .graffiti3{
       background-size: cover;
-      background-image: url(wynwood.jpg);
+      background-image: url(images/wynwood.jpg);
       background-repeat: no-repeat;
       /*position: fixed;*/
       background-attachment: fixed;
@@ -712,7 +713,7 @@ top: 120px;
       margin-top: -8px;
       /*width: 108%;*/
       background-size: cover;
-      background-image: url(graffiti.jpg);
+      background-image: url(images/graffiti.jpg);
       background-repeat: no-repeat;
       /*position: fixed;*/
       /*background-attachment: fixed;*/
@@ -907,7 +908,7 @@ top: 120px;
 
 
     .me{
-      background-image: url(goodlookin.jpg);
+      background-image: url(images/goodlookin.jpg);
       background-position: center;
       width: 250px;
       height: 250px;
@@ -936,14 +937,14 @@ top: 120px;
 
     .proj{
       font-family: 'Bungee', cursive;
-      color:white;
+      color:#76B852;
       font-size: 40px;
       text-align: center;
       height: 1em;
     }
 
     .my-proj{
-      color:#C5E3ED;
+      color:#D9FFC4;
       font-family: 'Ubuntu', sans-serif;
       text-align:center;
     }
@@ -955,7 +956,7 @@ top: 120px;
     }
 
     .first-proj{
-      background-image: url(Trndi.png);
+      background-image: url(images/Trndi.png);
       background-position: center;
       background-size: cover;
       width: 200px;
@@ -975,7 +976,7 @@ top: 120px;
     }
 
     .second-proj{
-      background-image: url(Tindcat.png);
+      background-image: url(images/Tindcat.png);
       background-position: center;
       background-size: cover;
       width: 200px;
@@ -995,7 +996,7 @@ top: 120px;
     }
 
     .third-proj{
-      background-image: url(Verbal.png);
+      background-image: url(images/Verbal.png);
       background-position: center;
       background-size: cover;
       width: 200px;
@@ -1015,7 +1016,7 @@ top: 120px;
 
 
     .fourth-proj{
-      background-image: url(Wynworld.png);
+      background-image: url(images/Wynworld.png);
       background-position: center;
       background-size: cover;
       width: 200px;
@@ -1036,7 +1037,7 @@ top: 120px;
 
 
     .fifth-proj{
-      background-image: url(Straingth.png);
+      background-image: url(images/Straingth.png);
       background-position: center;
       background-size: cover;
       width: 200px;
@@ -1057,7 +1058,7 @@ top: 120px;
 
 
     .sixth-proj{
-      background-image: url(Votersim.png);
+      background-image: url(images/Votersim.png);
       background-position: center;
       background-size: cover;
       width: 200px;
@@ -1099,12 +1100,12 @@ top: 120px;
       /*background-image: url(swirl_pattern.png);*/
       /*background-position: center;*/
       /*background-size: cover;*/
-      background-color: #F24B4B;
+      background-color: #76b852;
 
     }
 
     .hitmeup{
-      color:#7A0A0A;
+      color:#D9FFC4;
       font-family: 'Ubuntu', sans-serif;
       text-align:center;
     }

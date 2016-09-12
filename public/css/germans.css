@@ -6,7 +6,7 @@
 .arrow{
   /*float: right;*/
   position: fixed;
-  margin-left: 1159px;
+  margin-left: 1076px;
   margin-top: -2em;
   font-size: 70px;
   color: white;
@@ -115,7 +115,7 @@ color: white;
 
 .about{
   font-size: 22px;
-  margin-left: 868px;
+  margin-left: 794px;
   padding-top: 1em;
   font-style: italic;
   -moz-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(170deg, 0deg);
@@ -131,7 +131,7 @@ color: white;
 }
 
 .portfolio{
-  margin-left: 775px;
+  margin-left: 688px;
   font-size: 38px;
   padding-top: 28px;
   font-style: italic;
@@ -148,7 +148,7 @@ color: white;
 }
 
 .contact-info{
-  margin-left: 630px;
+  margin-left: 536px;
   font-size: 57px;
   padding-top: 43px;
   font-style: italic;
@@ -196,7 +196,7 @@ color: white;
 
 .lang{
   margin: 0 auto;
-  width: 58%;
+  width: 62%;
   /*margin-left: 15em;*/
 }
 .ruby{
@@ -337,7 +337,7 @@ color: white;
 
 .mywork{
   margin: 0 auto;
-  width: 71%;
+  width: 75%;
 }
 
 .first-proj{
@@ -524,7 +524,7 @@ top: 120px;
 
 .socials{
   margin: 0 auto;
-  width: 72%;
+  width: 76%;
   font-size: 200px;
   margin-top: -8px;
   margin-bottom: 25px;

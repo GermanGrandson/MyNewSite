@@ -648,9 +648,9 @@ top: 120px;
     .arrow{
       /*float: right;*/
       position: fixed;
-      margin-left: 882px;
+      margin-left: 906px;
       margin-top: -2em;
-      font-size: 96px;
+      font-size: 83px;
       color: white;
       display: none;
     }
@@ -737,7 +737,7 @@ top: 120px;
     .info{
       font-family: 'Bungee', cursive;
       /*font-family: 'Cabin Condensed', sans-serif;*/
-      height: 95em;
+      height: 98em;
       /*background-color: #76B852;*/
       margin-left: -9px;
       margin-top: -8px;
@@ -948,16 +948,15 @@ top: 120px;
 
       font-family: 'Ubuntu', sans-serif;
       /*color: black;*/
-      z-index: -1px;
       /* margin-left: 40em; */
-      margin-top: -4em;
+      margin-top: -5em;
       margin-bottom: 5em;
       margin-left: -2em;
-      width: 27em;
-      font-size: 21px;
+      width: 25em;
+      font-size: 23px;
       /* text-align: center; */
       /* margin: 0 auto; */
-      line-height: 43px;
+      line-height: 47px;
       /* display: inline-block; */
     }
 
@@ -1263,7 +1262,7 @@ top: 120px;
 
     .socials{
       margin: 0 auto;
-      width: 85%;
+      width: 83%;
       font-size: 200px;
       margin-top: -65px;
       margin-bottom: 25px;

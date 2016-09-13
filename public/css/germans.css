@@ -484,6 +484,10 @@ color: white;
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
+.mywork-mob-mobile{
+  display: none;
+}
+
 
 .first-proj2{
   display:inline-block;
@@ -634,6 +638,7 @@ top: 120px;
   width: 80%;
   margin: 0 auto;
   margin-top: -42px;
+  border-radius: 17px;
 }
 
   @media only screen
@@ -643,9 +648,9 @@ top: 120px;
     .arrow{
       /*float: right;*/
       position: fixed;
-      margin-left: 17em;
+      margin-left: 882px;
       margin-top: -2em;
-      font-size: 70px;
+      font-size: 96px;
       color: white;
       display: none;
     }
@@ -873,6 +878,7 @@ top: 120px;
       text-align:center;
       font-size: 50px;
       margin-top: -31px;
+      padding-bottom: 1px;
     }
 
     .header{
@@ -881,21 +887,21 @@ top: 120px;
       text-align: center;
       color: #323B43;
       height: 1em;
-      padding-top: 1em;
+      padding-top: 70px;
     }
 
     .skills{
       font-family: 'Bungee', cursive;
-      font-size: 40px;
+      font-size: 82px;
       text-align: center;
       color: #323B43;
       height: 1em;
-      margin-top: 2em;
+      margin-top: -213px;
     }
 
     .lang{
       margin: 0 auto;
-      width: 76%;
+      width: 21%;
       /*margin-left: 15em;*/
     }
     .ruby{
@@ -919,6 +925,7 @@ top: 120px;
     }
     .xcode{
       display:inline-block;
+      margin-left: 3em;
     }
 
     .css{
@@ -943,13 +950,14 @@ top: 120px;
       /*color: black;*/
       z-index: -1px;
       /* margin-left: 40em; */
-      margin-top: -16em;
+      margin-top: -4em;
       margin-bottom: 5em;
-      margin-left: 1em;
+      margin-left: -2em;
       width: 27em;
+      font-size: 21px;
       /* text-align: center; */
       /* margin: 0 auto; */
-      line-height: 30px;
+      line-height: 43px;
       /* display: inline-block; */
     }
 
@@ -995,10 +1003,11 @@ top: 120px;
     .me{
       background-image: url(images/goodlookin.jpg);
       background-position: center;
-      width: 250px;
-      height: 250px;
+      width: 350px;
+      height: 350px;
+      margin-left: 19em;
       /*margin-left: 10em;*/
-      margin-top: 19em;
+      margin-top: 25em;
       background-size: cover;
       border-radius:100px;
       -webkit-border-radius: 17px;
@@ -1019,33 +1028,56 @@ top: 120px;
     .proj{
       font-family: 'Bungee', cursive;
       color:#76B852;
-      font-size: 40px;
+      font-size: 82px;
       text-align: center;
       height: 1em;
+      padding-top: 70px;
     }
 
     .my-proj{
       color:#D9FFC4;
       font-family: 'Ubuntu', sans-serif;
       text-align:center;
+      font-size: 37px;
+      padding-bottom: 1px;
     }
 
-    .mywork{
+    .mywork-mobile{
       margin: 0 auto;
-      width: 76%;
-      margin-left: 8em;
+      width: 89%;
+      /*margin-left: 8em;*/
     }
 
-    .first-proj{
+    .first-proj.hvr-buzz{
+      display: none;
+    }
+    .second-proj.hvr-bounce-out{
+      display: none;
+    }
+    .third-proj.hvr-buzz{
+      display: none;
+    }
+    .fourth-proj.hvr-bounce-out{
+      display: none;
+    }
+    .fifth-proj.hvr-buzz{
+      display: none;
+    }
+    .sixth-proj.hvr-bounce-out{
+      display: none;
+    }
+
+    .first-proj-mobile{
       background-image: url(images/Trndi.png);
       background-position: center;
       background-size: cover;
-      width: 200px;
-      height: 200px;
+      width: 400px;
+      height: 400px;
+      margin: 16px;
       display:inline-block;
-      padding-right: 30px;
+      /*padding-right: 30px;*/
       padding-bottom: 20px;
-      margin-right: 15px;
+      /*margin-right: 15px;*/
       /*margin-top: -16em;*/
       /*background-size: cover;*/
       border-radius:100px;
@@ -1056,16 +1088,17 @@ top: 120px;
       -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     }
 
-    .second-proj{
+    .second-proj-mobile{
       background-image: url(images/Tindcat.png);
       background-position: center;
       background-size: cover;
-      width: 200px;
-      height: 200px;
+      width: 400px;
+      height: 400px;
+      margin: 16px;
       display:inline-block;
-      padding-right: 30px;
+      /*padding-right: 30px;*/
       padding-bottom: 20px;
-      margin-right: 15px;
+      /*margin-right: 15px;*/
       /*margin-top: -16em;*/
       /*background-size: cover;*/
       border-radius:100px;
@@ -1076,14 +1109,15 @@ top: 120px;
       -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     }
 
-    .third-proj{
+    .third-proj-mobile{
       background-image: url(images/Verbal.png);
       background-position: center;
       background-size: cover;
-      width: 200px;
-      height: 200px;
+      width: 400px;
+      height: 400px;
+      margin: 16px;
       display:inline-block;
-      padding-right: 30px;
+      /*padding-right: 30px;*/
       padding-bottom: 20px;
       /*margin-top: -16em;*/
       /*background-size: cover;*/
@@ -1096,16 +1130,17 @@ top: 120px;
     }
 
 
-    .fourth-proj{
+    .fourth-proj-mobile{
       background-image: url(images/Wynworld.png);
       background-position: center;
       background-size: cover;
-      width: 200px;
-      height: 200px;
+      width: 400px;
+      height: 400px;
+      margin: 16px;
       display:inline-block;
-      padding-right: 30px;
+      /*padding-right: 30px;*/
       padding-bottom: 20px;
-      margin-right: 15px;
+      /*margin-right: 15px;*/
       /*margin-top: -16em;*/
       /*background-size: cover;*/
       border-radius:100px;
@@ -1117,16 +1152,17 @@ top: 120px;
     }
 
 
-    .fifth-proj{
+    .fifth-proj-mobile{
       background-image: url(images/Straingth.png);
       background-position: center;
       background-size: cover;
-      width: 200px;
-      height: 200px;
+      width: 400px;
+      height: 400px;
+      margin: 16px;
       display:inline-block;
-      padding-right: 30px;
+      /*padding-right: 30px;*/
       padding-bottom: 20px;
-      margin-right: 15px;
+      /*margin-right: 15px;*/
       /*margin-top: -16em;*/
       /*background-size: cover;*/
       border-radius:100px;
@@ -1138,14 +1174,15 @@ top: 120px;
     }
 
 
-    .sixth-proj{
+    .sixth-proj-mobile{
       background-image: url(images/Votersim.png);
       background-position: center;
       background-size: cover;
-      width: 200px;
-      height: 200px;
+      width: 400px;
+      height: 400px;
+      margin: 16px;
       display:inline-block;
-      padding-right: 30px;
+      /*padding-right: 30px;*/
       padding-bottom: 20px;
       /*margin-top: -16em;*/
       /*background-size: cover;*/
@@ -1189,19 +1226,25 @@ top: 120px;
       color:#D9FFC4;
       font-family: 'Ubuntu', sans-serif;
       text-align:center;
+      margin-top: -31px;
+      padding-bottom: 1px;
+      font-size: 50px;
     }
 
     .bubble
     {
     position: relative;
-    margin-left: 26em;
+    /*margin-left: 26em;*/
+    margin: 0 auto;
     width: 450px;
     height: 240px;
-    padding: 0px;
+    margin-bottom: 39em;
+    padding: 86px;
     background: #FFFFFF;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
+    margin-top: -48em;
     }
 
     .bubble:after
@@ -1209,13 +1252,13 @@ top: 120px;
     content: '';
     position: absolute;
     border-style: solid;
-    border-width: 11px 20px 11px 0;
+    border-width: 0px 0px 23px 26px;
     border-color: transparent #FFFFFF;
     display: block;
     width: 0;
     z-index: 1;
-    left: -20px;
-    top: 120px;
+    left: 367px;
+    top: 407px;
     }
 
     .socials{
@@ -1227,7 +1270,7 @@ top: 120px;
     }
 
     .github{
-      background-image: url(Octocat.png);
+      background-image: url(images/Octocat.png);
       background-position: center;
       background-size: cover;
       width: 120px;
@@ -1239,7 +1282,7 @@ top: 120px;
     }
 
     .twitter{
-      background-image: url(birdy.png);
+      background-image: url(images/twitter.png);
       background-position: center;
       background-size: cover;
       width: 120px;
@@ -1251,7 +1294,7 @@ top: 120px;
     }
 
     .linkedin{
-      background-image: url(lin.png);
+      background-image: url(images/lin.png);
       background-position: center;
       background-size: cover;
       width: 120px;
@@ -1263,7 +1306,7 @@ top: 120px;
     }
 
     .envelope{
-      background-image: url(envelope.png);
+      background-image: url(images/envelope.png);
       background-position: center;
       background-size: cover;
       width: 120px;
@@ -1304,6 +1347,7 @@ top: 120px;
       height: 50%;
       width: 80%;
       margin: 0 auto;
+      border-radius: 17px;
     }
 
 
@@ -1672,9 +1716,10 @@ top: 120px;
       margin-top: -16px;
     }
 
-    .mywork{
+    .mywork-mobile{
       margin: 0 auto;
       width: 63%;
+      display: block;
     }
 
     .first-proj{
@@ -1951,6 +1996,7 @@ top: 120px;
       width: 80%;
       margin: 0 auto;
       margin-top: -42px;
+      border-radius: 17px;
     }
 
   }

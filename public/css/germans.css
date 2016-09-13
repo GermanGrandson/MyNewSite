@@ -677,7 +677,7 @@ top: 120px;
       background-image: url(images/columbus.jpg);
       background-repeat: no-repeat;
       /*position: fixed;*/
-      background-attachment: fixed;
+      /*background-attachment: fixed;*/
       height: 109em;
     }
 
@@ -686,7 +686,7 @@ top: 120px;
       background-image: url(images/wynwood.jpg);
       background-repeat: no-repeat;
       /*position: fixed;*/
-      background-attachment: fixed;
+      /*background-attachment: fixed;*/
       height: 109em;
     }
 

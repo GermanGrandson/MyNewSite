@@ -129,8 +129,8 @@ color: white;
 
 .about{
   font-size: 22px;
-  margin-left: 874px;
-  padding-top: 1em;
+  margin-left: 858px;
+  padding-top: 3em;
   font-style: italic;
   -moz-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(170deg, 0deg);
    -webkit-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(170deg, 0deg);
@@ -145,7 +145,7 @@ color: white;
 }
 
 .portfolio{
-  margin-left: 788px;
+  margin-left: 762px;
   font-size: 38px;
   padding-top: 28px;
   font-style: italic;
@@ -576,7 +576,7 @@ top: 120px;
   display:inline-block;
   padding-right: 30px;
   padding-bottom: 35px;
-  margin-right: 15px;
+  margin-right: 35px;
 }
 
 .twitter{
@@ -588,7 +588,7 @@ top: 120px;
   display:inline-block;
   padding-right: 30px;
   padding-bottom: 35px;
-  margin-right: 15px;
+  margin-right: 35px;
 }
 
 .linkedin{
@@ -600,7 +600,7 @@ top: 120px;
   display:inline-block;
   padding-right: 30px;
   padding-bottom: 35px;
-  margin-right: 15px;
+  margin-right: 35px;
 }
 
 .envelope{

@@ -516,7 +516,7 @@ color: white;
 
 .contact{
   /*margin-top: 20em;*/
-  height: 40em;
+  height: 44em;
   /*background-image: url(swirl_pattern.png);*/
   /*background-position: center;*/
   /*background-size: cover;*/
@@ -577,6 +577,7 @@ top: 120px;
   padding-right: 30px;
   padding-bottom: 35px;
   margin-right: 35px;
+  margin-left: 9px;
 }
 
 .twitter{

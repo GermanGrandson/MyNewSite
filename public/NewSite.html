@@ -168,25 +168,75 @@ $(window).scroll(function() {
 
 <script>
 $('.about').on('click',function(){
-  $('html,body').animate({
-    scrollTop:705
-  }, 1500)
+  alert($(window).width());
+  if($(window).width() > 1885){
+    $('html,body').animate({
+      scrollTop:976
+    }, 1500)
+  } else if($(window).width() > 1270){
+    $('html,body').animate({
+      scrollTop:705
+    }, 1500)
+  } else {
+
+  }
+
 });
 </script>
 
 <script>
 $('.portfolio').on('click',function(){
-  $('html,body').animate({
-    scrollTop:2114
-  }, 1500)
+  if($(window).width() > 1885){
+    $('html,body').animate({
+      scrollTop:2930
+    }, 1500)
+  } else if($(window).width() > 1270){
+    $('html,body').animate({
+      scrollTop:2114
+    }, 1500)
+  } else {
+
+  }
 });
 </script>
 
 <script>
 $('.contact-info').on('click',function(){
-  $('html,body').animate({
-    scrollTop:3523
-  }, 1500)
+  if($(window).width() > 1885){
+    $('html,body').animate({
+      scrollTop:4881
+    }, 1500)
+  } else if($(window).width() > 1270){
+    $('html,body').animate({
+      scrollTop:3523
+    }, 1500)
+  } else {
+
+  }
+});
+</script>
+
+<script>
+$('.about-mobile').on('click',function(){
+    $('html,body').animate({
+      scrollTop:1580
+    }, 1500)
+});
+</script>
+
+<script>
+$('.portfolio-mobile').on('click',function(){
+    $('html,body').animate({
+      scrollTop:5087
+    }, 1500)
+});
+</script>
+
+<script>
+$('.contact-info-mobile').on('click',function(){
+    $('html,body').animate({
+      scrollTop:8590
+    }, 1500)
 });
 </script>
 

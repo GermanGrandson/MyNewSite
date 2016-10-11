@@ -105,7 +105,6 @@ color: white;
 
 .info{
   font-family: 'Bungee', cursive;
-  /*font-family: 'Cabin Condensed', sans-serif;*/
   height: 44em;
   /*background-color: #76B852;*/
   margin-left:-7px;
@@ -1475,7 +1474,6 @@ top: 120px;
 
     .info{
       font-family: 'Bungee', cursive;
-      /*font-family: 'Cabin Condensed', sans-serif;*/
       height: 61em;
       /*background-color: #76B852;*/
       margin-left:-7px;

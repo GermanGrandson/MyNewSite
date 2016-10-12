@@ -18,7 +18,6 @@ $(function typed(){
 //Click scroll to About Me
 $(function(){
   $('.about').on('click',function(){
-    alert($(window).width());
     if($(window).width() > 1885){
       $('html,body').animate({
         scrollTop:976

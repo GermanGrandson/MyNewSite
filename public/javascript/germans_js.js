@@ -17,12 +17,13 @@ $(function typed(){
 
 //Click scroll to About Me
 $(function(){
+  console.log($(window).width());
   $('.about').on('click',function(){
     if($(window).width() > 1885){
       $('html,body').animate({
         scrollTop:976
       }, 1500)
-    } else if($(window).width() > 1270){
+    } else if($(window).width() > 1100){
       $('html,body').animate({
         scrollTop:705
       }, 1500)
@@ -40,7 +41,7 @@ $(function(){
       $('html,body').animate({
         scrollTop:2930
       }, 1500)
-    } else if($(window).width() > 1270){
+    } else if($(window).width() > 1100){
       $('html,body').animate({
         scrollTop:2114
       }, 1500)
@@ -58,7 +59,7 @@ $(function(){
       $('html,body').animate({
         scrollTop:4881
       }, 1500)
-    } else if($(window).width() > 1270){
+    } else if($(window).width() > 1100){
       $('html,body').animate({
         scrollTop:3523
       }, 1500)

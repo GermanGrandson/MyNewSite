@@ -321,7 +321,7 @@ color: white}
 
 .mywork{
   margin: 0 auto;
-  width: 65%;
+  width: 69%;
   padding-bottom: 50px;
 }
 
@@ -441,7 +441,7 @@ color: white}
 }
 
 .eigth-proj{
-  background-image: url(images/tictac.png);
+  background-image: url(images/votersim.png);
   background-position: center;
   background-size: cover;
   width: 250px;
